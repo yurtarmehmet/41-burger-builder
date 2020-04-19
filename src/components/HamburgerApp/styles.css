@@ -1,0 +1,26 @@
+.malzeme-ekle {
+    border: 0;
+    padding: 15px;
+    background: green;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.malzeme-cikar {
+    border: 0;
+    padding: 15px;
+    background: red;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.malzeme-cikar.disabled {
+    background: #c3bfff;
+    pointer-events: none;
+}
