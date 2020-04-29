@@ -208,3 +208,7 @@
   cursor: not-allowed;
   background: #bfc5b7;
 }
+.malzeme-ismi {
+  width: 10em;
+  display: inline-block;
+}
